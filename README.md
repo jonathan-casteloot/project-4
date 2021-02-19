@@ -3,11 +3,11 @@ Analysez les ventes de votre entreprise
 
 LIBRAIRIES UTILISEES (MISES A JOUR LE 01/09/2020)
 
-	CLASSIQUES : pandas, numpy, scipy.stats, seaborn, matplotlib.pyplot.
+	CLASSIQUES : Pandas, numpy, scipy.stats, seaborn, matplotlib.pyplot.
 
 	CALCULER INDICE GINI : quantecon.
 
-	ANOVA + CHI-2 : scikitlearn.
+	ANOVA + CHI-2 : Scikitlearn.
 
 	module P4_toolbox.py : fonctions utilisées dans la réalisation de ce projet.
 
